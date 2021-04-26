@@ -19,4 +19,4 @@
 * Õige vastus annab +1, vale -2 ja üle kolme sekundi -3 punkti
 * Maksimaalne võimalik punktide arv - 100p
 
-#`HAPPY CODING !!! :)`
+# `HAPPY CODING !!! :)`
