@@ -10,6 +10,7 @@
 <hr>
 
 ### Sisaldab
+* Korrutamiseks ja jagamiseks eraldi 'HTML' failid
 * Raskusastmeid - mängija saab ise valida kui suuri numbreid korrutada
 * 100 tehte kaupa arvutamine koos loenduriga, mis näitab mitu arvutust veel jäänud
 * Vastuse andmiseks on aega 3 sekundit
