@@ -5,7 +5,7 @@
     <p>Korrutustabeli harjutamine aja peale</p>
 </h3>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/34022590/116037981-83f02200-a671-11eb-874b-c48e2b2531a8.png" width="420px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34022590/116037981-83f02200-a671-11eb-874b-c48e2b2531a8.png" width="220px"></p>
 
 <hr>
 
